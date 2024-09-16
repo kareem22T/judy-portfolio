@@ -8,10 +8,12 @@ import "swiper/css";
 import "swiper/css/pagination";
 import { FreeMode, Autoplay } from "swiper/modules";
 
-import img1 from './../../images/slide-1.png'
-import img2 from './../../images/slide-2.png'
-import img3 from './../../images/slide-3.png'
-import img4 from './../../images/slide-4.png'
+import img1 from './../../images/slide-1.jpg'
+import img2 from './../../images/slide-2.jpg'
+import img3 from './../../images/slide-3.jpg'
+import img4 from './../../images/slide-4.jpg'
+import img5 from './../../images/slide-5.jpg'
+import img6 from './../../images/slide-6.jpg'
 
 const Portfolio = () => {
     return (
@@ -42,16 +44,10 @@ const Portfolio = () => {
                         <a href=""><img src={img4} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img1} alt="" /></a>
+                        <a href=""><img src={img5} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img2} alt="" /></a>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                        <a href=""><img src={img3} alt="" /></a>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                        <a href=""><img src={img4} alt="" /></a>
+                        <a href=""><img src={img6} alt="" /></a>
                     </SwiperSlide>
                 </Swiper>
 
