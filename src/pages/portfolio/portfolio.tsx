@@ -49,6 +49,24 @@ const Portfolio = () => {
                     <SwiperSlide>
                         <a href=""><img src={img6} alt="" /></a>
                     </SwiperSlide>
+                    <SwiperSlide>
+                        <a href=""><img src={img1} alt="" /></a>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <a href=""><img src={img2} alt="" /></a>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <a href=""><img src={img3} alt="" /></a>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <a href=""><img src={img4} alt="" /></a>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <a href=""><img src={img5} alt="" /></a>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <a href=""><img src={img6} alt="" /></a>
+                    </SwiperSlide>
                 </Swiper>
 
             </section>
