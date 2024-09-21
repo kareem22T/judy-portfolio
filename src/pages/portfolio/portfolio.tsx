@@ -29,7 +29,7 @@ const Portfolio = () => {
                     autoplay={{ delay: 700 }}
                     loop={true}
                     speed={1500}
-                    // centeredSlides={true}
+                    centeredSlides={true}
                     className="mySwiper"
                     modules={[FreeMode, Autoplay]}
                 >
