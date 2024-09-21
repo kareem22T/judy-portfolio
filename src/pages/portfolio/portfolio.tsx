@@ -26,9 +26,9 @@ const Portfolio = () => {
                     spaceBetween={20}
                     slidesPerView={"auto"}
                     freeMode={true}
-                    autoplay={{ delay: 500 }}
+                    autoplay={{ delay: 700 }}
                     loop={true}
-                    speed={2000}
+                    speed={1500}
                     // centeredSlides={true}
                     className="mySwiper"
                     modules={[FreeMode, Autoplay]}
