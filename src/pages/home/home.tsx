@@ -17,9 +17,9 @@ const Home = () => {
               Hello!, <br />
               Here’s Judy Fathy
             </h1>
-            <h2>Graphic Designer &  Visual Designer</h2>
+            <h2>Graphic Designer</h2>
             <p>
-              It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its layout. The point of  using Lorem Ipsum is that it has a more-or-less normal distribution of  letters, as opposed to using 'Content here, content here', making it  look like readable English. Many desktop publishing .
+            I am a graphic designer with a passion for creating visually appealing designs that communicate effectively. I specialize in designing logos, business cards, menus, and social media content. My goal is to help businesses develop strong and memorable visual identities. I enjoy working with clients to bring their ideas to life and create designs that resonate with their audience.
             </p>
           </div>
         </div>
@@ -48,7 +48,7 @@ const Home = () => {
                         <path d="M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3" />
                     </svg>
                 </a>
-                <a href="">
+                <a href="https://wa.me/+201121907224" target="_blank">
                     <svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-brand-whatsapp" width="20" height="20" viewBox="0 0 24 24" stroke-width="1.5" stroke="#CBBBB3" fill="none" stroke-linecap="round" stroke-linejoin="round">
                         <path stroke="none" d="M0 0h24v24H0z" fill="none" />
                         <path d="M3 21l1.65 -3.8a9 9 0 1 1 3.4 2.9l-5.05 .9" />
