@@ -34,52 +34,52 @@ const Portfolio = () => {
                     modules={[FreeMode, Autoplay]}
                 >
                     <SwiperSlide>
-                        <a href=""><img src={img8} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209692497/plant-store?tracking_source=project_owner_other_projects" target="_blank"><img src={img8} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img7} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209390531/MENU?tracking_source=project_owner_other_projects" target="_blank"><img src={img7} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img1} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209387947/CAR-OFFERS" target="_blank"><img src={img1} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img2} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209380005/social-media-posts?tracking_source=project_owner_other_projects" target="_blank"><img src={img2} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img3} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209382545/NEW-COLLECTION" target="_blank"><img src={img3} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img4} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209386707/PERFUME" target="_blank"><img src={img4} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img5} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209380005/social-media-posts" target="_blank"><img src={img5} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img6} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209387181/SOCAL-MEDIA-POST" target="_blank"><img src={img6} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img8} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209692497/plant-store?tracking_source=project_owner_other_projects" target="_blank"><img src={img8} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img7} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209390531/MENU?tracking_source=project_owner_other_projects" target="_blank"><img src={img7} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img1} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209387947/CAR-OFFERS" target="_blank"><img src={img1} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img2} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209380005/social-media-posts?tracking_source=project_owner_other_projects" target="_blank"><img src={img2} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img3} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209382545/NEW-COLLECTION" target="_blank"><img src={img3} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img4} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209386707/PERFUME" target="_blank"><img src={img4} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img5} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209380005/social-media-posts" target="_blank"><img src={img5} alt="" /></a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href=""><img src={img6} alt="" /></a>
+                        <a href="https://www.behance.net/gallery/209387181/SOCAL-MEDIA-POST" target="_blank"><img src={img6} alt="" /></a>
                     </SwiperSlide>
                 </Swiper>
 
